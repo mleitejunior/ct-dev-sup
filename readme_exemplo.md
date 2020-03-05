@@ -1,14 +1,3 @@
-# Apresentação
-
-<b>Nome completo</b>: Marcelo Leite Junior
-
-<b>Profissão</b>: Professor de Música, Desenvolvedor Java e Graduando em Sistemas de Informação
-
-<b>Turma/Período</b>: SI 5º Período
-Já tive contato com programação antes do curso: Sim, com Java, Js, React, React Native, 2 anos de experiência
-
-<b>Metas</b>: Ajudar a despertar o interesse na área dos alunos, divertir codando e competindo e, quem sabe, ganhar algum prêmio este ano!
-
 ### Anotações:
 
 EXEMPLO DE ANOTAÇÃO:
