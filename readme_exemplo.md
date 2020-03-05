@@ -38,3 +38,7 @@ Daqui para baixo vou fazer minhas anotações pessoais durante as aulas, não pr
 ### Anotações pessoais:
 
 Primeira aula começando dia 04/03/2020 (meu aniversário uhulll), previsão de 10+ alunos.
+
+### Template de README.md
+
+(PurpleBooth Readme Template) [https://gist.github.com/PurpleBooth/109311bb0361f32d87a2]
