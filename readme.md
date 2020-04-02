@@ -21,10 +21,6 @@ As aulas e monitorias são ministradas toda quinta-feira das 17:00 as 19:00 no E
 Online:
 Através do Discord, enviar mensagem para mleitejunior@gmail.com se apresentando e pedindo o link do discord.
 
-### Como funciona?
-
-### Primeiros passos:
-
 ### Tenho dúvidas, como peço ajuda?
 
 As dúvidas de código podem ser enviadas diretamente para mim através de issues no repositório ou então para toda a comunidade na plataforma discord.
