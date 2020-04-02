@@ -47,6 +47,7 @@ Atualmente morando em Machado - Minas Gerais
 | | | | | | |
 |---|---|---|---|---|---|
 | Jest | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| Tec Teste Exemplo | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
 ## Projetos
 
