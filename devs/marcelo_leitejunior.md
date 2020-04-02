@@ -18,7 +18,7 @@ Atualmente morando em Machado - Minas Gerais
 | | | | | | |
 |---|---|---|---|---|---|
 | Node.js | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
-| Express | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| Express | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
 ### Desenvolvimento Frontend
 | | | | | | |
@@ -27,9 +27,9 @@ Atualmente morando em Machado - Minas Gerais
 | CSS | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Reactjs | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Vue.js | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
-| Styled-components | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
-| Redux | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
-| Axios | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| Styled-components | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| Redux | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| Axios | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
 ### Desenvolvimento Mobile
 | | | | | | |
@@ -53,6 +53,6 @@ Atualmente morando em Machado - Minas Gerais
 ### BeTheHero
 Be The Hero conecta ONGs e pessoas interessadas em ajudar.
 
-- Node.js, Reactjs, React Native, Expo, Express, Knex, Sqlite, Vue.js e Jest
+- Node.js, Reactjs, React Native, Expo, Express, Knex, Sqlite, Vue.js, Styled-components, Redux,  Jest
 
 [Repositorio](https://github.com/mleitejunior/be-the-hero)
