@@ -9,8 +9,8 @@ Atualmente morando em Machado - Minas Gerais
 ## Informações do Portfolio
 
 ### Linguagens de Programação: 
-| | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|  
+| | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|  
 | Java | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Javascript | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
