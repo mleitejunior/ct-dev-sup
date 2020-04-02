@@ -16,14 +16,6 @@ Stack:
 - Express :red_circle:
 - Nodejs :white_square: :white_check_mark:
 - 
--
--
--
--
--
--
--
--
 
 ## Projetos
 
