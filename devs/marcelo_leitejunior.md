@@ -19,6 +19,7 @@ Atualmente morando em Machado - Minas Gerais
 |---|---|---|---|---|---|
 | Node.js | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Express | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| Multer | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
 ### Desenvolvimento Frontend
 | | | | | | |
