@@ -43,6 +43,7 @@ Atualmente morando em Machado - Minas Gerais
 |---|---|---|---|---|---|
 | Sqlite | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Knex.js | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| MongoDB | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
 ### Testes
 | | | | | | |
