@@ -58,6 +58,7 @@ Atualmente morando em Machado - Minas Gerais
 | Sequelize | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Mongoose | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | NodeMailer | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| Mailtrap | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
 ## Projetos
 
