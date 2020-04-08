@@ -51,6 +51,11 @@ Atualmente morando em Machado - Minas Gerais
 | Jest | :white_check_mark: | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Tec de Testes 2 | :white_check_mark: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
+### Patterns
+| | | | | | |
+|---|---|---|---|---|---|
+| MVC | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+
 ### Outras tecnologias
 | | | | | | |
 |---|---|---|---|---|---|
