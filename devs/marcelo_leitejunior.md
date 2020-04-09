@@ -65,6 +65,7 @@ Atualmente morando em Machado - Minas Gerais
 | NodeMailer | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Mailtrap | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 | Redis | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
+| Handlebars | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: | :black_square_button: |
 
 ## Projetos
 
